@@ -1,15 +1,13 @@
 # personal-portfolio
-# Personal Portfolio Website
 
-This is my personal portfolio website built using HTML and CSS. It showcases my skills, projects, and a way to contact me.
+This is my first project: a simple, static personal portfolio website built using HTML and CSS. The website includes the basic sections needed to showcase my profile and contact information.
 
 ---
 
-## Features
-- **Static Design**: A simple layout with sections like About Me, Projects, and Contact.
-- **HTML and CSS Only**: No JavaScript or advanced features yet.
-- **Basic Styling**: Clean and minimal design.
-
+- **Header**: Includes my name and navigation links (e.g., Home, About, Contact).
+- **About Me Section**: A brief introduction about myself.
+- **Projects Section**: Placeholder section to showcase my work in the future.
+- **Contact Section**: A simple form to allow visitors to contact me.
 ---
 
 ## Technologies Used
