@@ -27,4 +27,4 @@ You can view the live website here:
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personal-portfolio.git
+   git clone https://github.com/Abdirizak09/personal-portfolio.git
